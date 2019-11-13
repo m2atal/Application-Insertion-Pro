@@ -1,0 +1,3 @@
+[submodule "polital-ui"]
+	path = polital-ui
+	url = git@github.com:m2atal/polital-ui.git
