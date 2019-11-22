@@ -2,6 +2,7 @@
 Application de démo pour le projet d'insertion professionnelle
 
 ## Site web : 
+- Des fichiers PDF sont disponnibles dans le dossier `demo_docs`
 - [http://polital.azurewebsites.net](http://polital.azurewebsites.net)
 
 ## API :
