@@ -1,6 +1,7 @@
 [submodule "polital-ui"]
 	path = polital-ui
 	url = git@github.com:m2atal/polital-ui.git
+
 [submodule "polital-api"]
 	path = polital-api
 	url = git@github.com:m2atal/polital-api.git
